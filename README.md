@@ -1,0 +1,4 @@
+# CliteCompiler
+
+typecheker 
+not interpreter
